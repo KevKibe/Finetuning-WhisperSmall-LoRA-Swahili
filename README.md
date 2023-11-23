@@ -13,7 +13,7 @@ The original model transcriptions for the [audio file](https://github.com/KevKib
 - ```"ชุครสธานตรเป็นод mosquitoes couldn'tวMUSIC ดัดิ่งที่ต้องล่ะของคลิทฝัnd นะไม่ of"```
 
 ## Fine-Tuned Model Inference
-Post fine-tuning, the transcribed text returned was ```"Shukranisana pendo poni madandefu lakinimuda haukwa upandewezu,"``` aligning closely with the correct transcription: ```"Shukrani sana pendo poni mada ndefu lakini muda hauko upande wetu."``` This demonstrates notable improvement after a test run of 100 steps.
+Post fine-tuning, the transcribed text returned was ```"Shukranisana pendo poni madandefu lakinimuda haukwa upandewezu,"``` aligning closely with the correct transcription: ```"Shukrani sana pendo poni mada ndefu lakini muda hauko upande wetu."``` This demonstrates notable improvement after a test run of 100 steps(30 mins).
 See details in the [notebook](https://github.com/KevKibe/Finetuning-WhisperSmall-LoRA-Swahili./blob/main/Finetuning_WhisperSmall_LoRA_Swahili.ipynb).
 
 
